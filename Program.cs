@@ -13,5 +13,14 @@ internal static class Program
         {
             Console.WriteLine("You are not cool");
         }
+        bool RichardLearning = true;
+        if (RichardLearning)
+        {
+            Console.WriteLine("Tack Hanninen");
+        }
+        else
+        {
+            Console.WriteLine("jag förstår inte");
+        }
     }
 }
