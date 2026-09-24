@@ -4,7 +4,7 @@ internal static class Program
 {
     internal static void Main()
     {
-        bool isCool = false;
+        bool isCool = true;
         if (isCool)
         {
             Console.WriteLine("You are cool!");
