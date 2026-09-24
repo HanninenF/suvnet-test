@@ -2,7 +2,7 @@
 
 internal static class Program
 {
-    internal void Main()
+    internal static void Main()
     {
         bool isCool = true;
         if (isCool)
