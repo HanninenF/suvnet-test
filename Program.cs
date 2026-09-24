@@ -9,6 +9,9 @@ internal static class Program
         {
             Console.WriteLine("You are cool!");
         }
-        Console.WriteLine("You are not cool");
+        else
+        {
+            Console.WriteLine("You are not cool");
+        }
     }
 }
